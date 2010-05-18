@@ -1,3 +1,12 @@
+This Kohana3 Module based on Twitter-async.
+1. Add module in bootstrap.php:
+	...
+	'epitwitter' => MODPATH.'epitwitter', 
+	...
+2. Change consumer_key and consumer_secret in config/epitwitter.php
+
+#####
+
 Twitter-async is a wrapper for Twitter's OAuth API which provides asynchronous calls.
 
 Authors

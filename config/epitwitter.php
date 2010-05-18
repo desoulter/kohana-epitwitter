@@ -3,7 +3,7 @@
 return array
 (
 	// put youre consumer keys here
-	'consumer_key'		=> 'utstXsd7JSU7fipEuETfsA',
-        'consumer_secret'       => 'HNh18UNpNz1P3ZHXbEfqnmzIi8Ntiszue78EvGMgk', 
+	'consumer_key'		=> 'put_consumer_key_here',
+        'consumer_secret'       => 'put_consumer_secret_here', 
 );
 
